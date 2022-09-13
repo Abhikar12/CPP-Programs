@@ -1,6 +1,4 @@
 /*
-
-Name : Abhishek Laxman Kusalkar
 Title :Program to implement Binary tree operations.
 
 1.Create Tree

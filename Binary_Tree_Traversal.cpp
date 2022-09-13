@@ -1,5 +1,4 @@
 /*
-Name : Abhishek Laxman Kusalkar
 Title : Program to implement Binary Tree Traversals in Recursive and Non Recursive way.
 */
 
