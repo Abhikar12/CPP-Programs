@@ -424,7 +424,7 @@ Enter Your Choice Here -->>1.Yes 2.No 1
 4.Longest Path Of Tree
 Enter Your Choice Here -->>4
 
-Longest Path Of Tree    4
+Longest Path Of Tree   4
 
 Enter Your Choice Here -->>1.Yes 2.No 2
 */
