@@ -3,9 +3,10 @@ Name : Abhishek Laxman Kusalkar
 Title :Program to implement Binary tree operations.
 
 1.Create Tree
-2.INORDER
+2.Tree Traversal - Inorder, Preorder, Postorder
 3.Display Leaves of Tree
 4.Longest Path Of Tree
+
 */
 
 // Program -
