@@ -1,6 +1,11 @@
 /*
+
 Title  : Program in C++ to implement file organizations.
+
 */
+
+//Program 
+
 #include <iostream>
 #include <fstream>
 using namespace std;
