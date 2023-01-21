@@ -1,5 +1,8 @@
 /*
 Title : Program to implement Binary Tree Traversals in Recursive and Non Recursive way.
+        Inorder
+        Preorder
+        Postorder
 */
 
 // Program -
@@ -182,11 +185,11 @@ void BT::display() // to display the BT
         inorder(root);
         break;
       case 2:
-        cout << "\npreorder By Recursive";
+        cout << "\nPreorder By Recursive";
         preorder(root);
         break;
       case 3:
-        cout << "\npostorder By Recursive";
+        cout << "\nPostorder By Recursive";
         postorder(root);
         break;
       case 4:
@@ -194,11 +197,11 @@ void BT::display() // to display the BT
         inorder_nonrec(root);
         break;
       case 5:
-        cout << "\npreorder By Non Recursive";
+        cout << "\nPreorder By Non Recursive";
         preorder_nonrec(root);
         break;
       case 6:
-        cout << "\npostorder By Non Recursive";
+        cout << "\nPostorder By Non Recursive";
         postorder_nonrec(root);
         break;
       }
@@ -242,7 +245,7 @@ int main()
   BT obj;
   do
   {
-    cout << "\nWhich operation do you want perform \n\t 1.Insert Element :: \n\t 2.Display Tree::";
+    cout << "\nWhich operation do you want perform \n\t 1.Insert Element -->> \n\t 2.Display Tree ->>";
     cin >> ch1;
     switch (ch1)
     {
@@ -267,6 +270,7 @@ int main()
   } while (ch2 != 2);
   return 0;
 }
+
 /* OutPut -
 Which operation do you want perform
          1.Insert Element ::
